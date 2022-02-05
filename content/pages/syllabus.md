@@ -46,18 +46,177 @@ This course is graded pass/fail. The grading will be based on regular participat
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Orientation | &nbsp; |
-| 2 | History of stem cell biology and axis of research | &nbsp; |
-| 3 | What makes a stem cell a stem cell? Part 1 – Transcription factors | &nbsp; |
-| 4 | What makes a stem cell a stem cell? Part 2 – Chromatin structure | &nbsp; |
-| 5 | New technologies | &nbsp; |
-| 6 | Field trip and 1st assignment | Field trip— [Stem Cells Seminar – MIT Biology Colloquium](http://mit.edu/biology/www/biology/colloquium.html) |
-| 7 | Cloning of mammalian cells | Written midterm assignment is due |
-| 8 | Reprogramming and trans-differentiation - Transcription factors, 2.0. | &nbsp; |
-| 9 | Are cancer-initiating cells stem cells? | &nbsp; |
-| 10 | Using lessons from stem cells to treat diabetes | &nbsp; |
-| 11 | Stem cell therapies | &nbsp; |
-| 12 | The future of regenerative medicine | &nbsp; |
-| 13 | Final assignment | Final assignment: in-class debate
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Orientation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+History of stem cell biology and axis of research
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+What makes a stem cell a stem cell? Part 1 – Transcription factors
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+What makes a stem cell a stem cell? Part 2 – Chromatin structure
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+New technologies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip and 1st assignment
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip— [Stem Cells Seminar – MIT Biology Colloquium](http://mit.edu/biology/www/biology/colloquium.html)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Cloning of mammalian cells
+{{< tdclose >}}
+{{< tdopen >}}
+Written midterm assignment is due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Reprogramming and trans-differentiation - Transcription factors, 2.0.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Are cancer-initiating cells stem cells?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Using lessons from stem cells to treat diabetes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Stem cell therapies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+The future of regenerative medicine
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Final assignment
+{{< tdclose >}}
+{{< tdopen >}}
+Final assignment: in-class debate
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
